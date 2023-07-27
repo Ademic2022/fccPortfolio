@@ -1,55 +1,47 @@
-# Portfolio Project
+# Build-A-Personal-Portfolio-Webpage
 
-## Overview
+![FreeCodeCamp.com Responsive Web Design Certification Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
 
-Welcome to my portfolio project! This repository serves as a showcase of my work as a [software developer/designer/data scientist/etc.] and provides insights into my skills, projects, and achievements.
+FreeCodeCamp - Build a Personal Portfolio Webpage.
 
-## About Me
+## Responsive Web Design Projects - Build a Personal Portfolio Webpage Objective
+Build a CodePen.io app that is functionally similar to this: [Build A Personal Portfolio Webpage](https://codepen.io/freeCodeCamp/full/zNBOYG).
 
-Introduce yourself and provide a brief background about your experience, education, and interests. Highlight your passion for technology and any specific areas you specialize in.
+Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
-## Projects
+You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk. Other projects will give you a chance to work with different technology stacks like React. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
 
-List some of the key projects you have worked on. Include a brief description of each project, the tech stack used, and any relevant links, such as GitHub repositories or live demos.
+## User Stories
 
-### Project 1: [Project Name]
+1. My portfolio should have a welcome section with an id of welcome-section.
 
-- **Description:** [Brief description of the project]
-- **Tech Stack:** [Tech Stack used for the project]
-- **Github Repository:** [Link to the GitHub repository]
-- **Live Demo:** [Link to the live demo (if applicable)]
+2. The welcome section should have an h1 element that contains text.
 
-### Project 2: [Project Name]
+3. My portfolio should have a projects section with an id of projects.
 
-- **Description:** [Brief description of the project]
-- **Tech Stack:** [Tech Stack used for the project]
-- **Github Repository:** [Link to the GitHub repository]
-- **Live Demo:** [Link to the live demo (if applicable)]
+4. The projects section should contain at least one element with a class of project-tile to hold a project.
 
-### Project 3: [Project Name]
+5. The projects section should contain at least one link to a project.
 
-- **Description:** [Brief description of the project]
-- **Tech Stack:** [Tech Stack used for the project]
-- **Github Repository:** [Link to the GitHub repository]
-- **Live Demo:** [Link to the live demo (if applicable)]
+6. My portfolio should have a navbar with an id of navbar.
 
-## Skills
+7. The navbar should contain at least one link that I can click on to navigate to different sections of the page.
 
-List the skills and technologies you are proficient in. You can include programming languages, frameworks, tools, and any other relevant skills.
+8. My portfolio should have a link with an id of profile-link, which opens my GitHub or FCC profile in a new tab.
 
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- [Skill 4]
-- [Skill 5]
+9. My portfolio should have at least one media query.
 
-## Contact
+10. The height of the welcome section should be equal to the height of the viewport.
 
-Provide contact information and ways for potential collaborators or employers to get in touch with you.
+11. The navbar should always be at the top of the viewport.
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Portfolio Website: [Your Portfolio Website (if applicable)]
+You can build your project by forking this CodePen pen. Or you can use this CDN link to run the tests in any environment you like: [https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js](https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js)
+
+Once you're done, submit the URL to your working project with all its tests passing.
+
+## Live Site (solution)
+[https://freecodecamp-solutions.github.io/Personal-Portfolio-Webpage/](https://freecodecamp-solutions.github.io/Personal-Portfolio-Webpage/)
+
 
 Feel free to reach out to me for collaboration or any inquiries!
 
